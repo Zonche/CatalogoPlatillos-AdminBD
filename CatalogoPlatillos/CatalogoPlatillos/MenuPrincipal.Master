@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MenuPrincipal.master.cs" Inherits="CatalogoPlatillos.MenuPrincipal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="border-style: none; border-color: #FFFFFF; font-size: large; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-weight: lighter; background-image: url('Imagen/cropped-vintage_wallpaper_by_silent_broken_wish.jpg'); color: #FFFFFF;">
+<head runat="server">
+    <title>CATALOGO DE PLATILLOS</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        CATALOGO DE PLATILLOS
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+         <div style="font-size: 35px">
+             <asp:Label ID="lblUsuario" runat="server" Text="" ></asp:Label>
+        </div>
+         <asp:Menu ID="Menu1" runat="server" Orientation ="Horizontal" BackColor="#990000" DynamicHorizontalOffset="2" Font-Names="Cambria" Font-Size="Large" ForeColor="White" StaticSubMenuIndent="100px">
+             <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+             <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+             <DynamicMenuStyle BackColor="#B5C7DE" />
+             <DynamicSelectedStyle BackColor="#507CD1" />
+            <Items>
+                <asp:MenuItem Text ="Captura Platillo" NavigateUrl ="~/CapturaPlatillo.aspx"></asp:MenuItem>
+                <asp:MenuItem Text ="Consulta Platillo" NavigateUrl ="~/ConsultarPlatillos.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Capturar Pedido" NavigateUrl="~/CapturaPedidos.aspx"></asp:MenuItem>
+                <asp:MenuItem Text="Consulta Pedido" NavigateUrl="~/ListaPedidos.aspx"></asp:MenuItem>
+                <asp:MenuItem Text ="Cerrar Sesion" NavigateUrl ="~/LogOut.aspx"></asp:MenuItem>
+            </Items>
+             <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+             <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+             <StaticMenuStyle BorderColor="White" BorderStyle="Outset" BorderWidth="3px" />
+             <StaticSelectedStyle BackColor="#507CD1" />
+        </asp:Menu>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

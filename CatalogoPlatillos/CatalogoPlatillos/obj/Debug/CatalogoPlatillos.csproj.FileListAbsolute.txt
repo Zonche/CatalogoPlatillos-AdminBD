@@ -1,0 +1,53 @@
+c:\users\kevinluciano\documents\visual studio 2013\Projects\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll.config
+c:\users\kevinluciano\documents\visual studio 2013\Projects\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+c:\users\kevinluciano\documents\visual studio 2013\Projects\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+c:\users\kevinluciano\documents\visual studio 2013\Projects\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+c:\users\kevinluciano\documents\visual studio 2013\Projects\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+c:\users\kevinluciano\documents\visual studio 2013\Projects\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+L:\6to Semestre\Programacion Web\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+L:\6to Semestre\Programacion Web\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+L:\6to Semestre\Programacion Web\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+L:\6to Semestre\Programacion Web\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+L:\6to Semestre\Programacion Web\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+G:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+G:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+G:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll.config
+G:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+G:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+G:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+F:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll.config
+F:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+F:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+F:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+F:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+F:\6to Semestre\Programacion Web\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+C:\Users\Dann\Documents\tareas\base de datos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+C:\Users\Dann\Documents\tareas\base de datos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+C:\Users\Dann\Documents\tareas\base de datos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+C:\Users\Dann\Documents\tareas\base de datos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+C:\Users\Dann\Documents\tareas\base de datos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+C:\Users\Alejandro\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+C:\Users\Alejandro\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+C:\Users\Alejandro\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+C:\Users\Alejandro\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+C:\Users\Any\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+C:\Users\Any\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+C:\Users\Any\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+C:\Users\Any\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+C:\Users\Any\Documents\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+C:\Users\Any\Documents\Los 3 Proyectos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+C:\Users\Any\Documents\Los 3 Proyectos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+C:\Users\Any\Documents\Los 3 Proyectos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+C:\Users\Any\Documents\Los 3 Proyectos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+C:\Users\Any\Documents\Los 3 Proyectos\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+E:\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+E:\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+E:\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+E:\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+E:\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
+C:\Users\Dann\Documents\tareas\PWeb\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.dll
+C:\Users\Dann\Documents\tareas\PWeb\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\bin\CatalogoPlatillos.pdb
+C:\Users\Dann\Documents\tareas\PWeb\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.csprojResolveAssemblyReference.cache
+C:\Users\Dann\Documents\tareas\PWeb\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.dll
+C:\Users\Dann\Documents\tareas\PWeb\Proyecto Final\CatalogoPlatillos\CatalogoPlatillos\obj\Debug\CatalogoPlatillos.pdb
